@@ -1,0 +1,58 @@
+.titleFont {
+    font-family: 'Codystar', cursive;
+    font-size: 40px;
+}
+
+
+
+body {
+    background-color: #030b15;
+}
+
+.row {
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+
+.socialLink {
+    width:40px;
+    height:40px;
+    margin-top:10px;
+}
+
+.card-body {
+    text-align:center;
+}
+
+.card-header {
+    text-align: center;
+}
+
+.contentFont {
+    font-family: 'Rubik', sans-serif;
+    color:#dfceba
+}
+
+.sectionFont {
+    font-family: 'Squada One', cursive;
+    font-size:35px;
+    color:#4f6073
+}
+
+.imageBorder {
+    border-style: solid;
+    border-width: 5px;
+}
+
+#jumbo{
+    padding:0px;
+    margin:0px;
+    height:10%;
+    
+}
+
+.navbar-custom {
+    color: #dfceba;
+    background-color: #dfceba;
+}
