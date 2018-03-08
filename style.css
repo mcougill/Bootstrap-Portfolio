@@ -1,12 +1,13 @@
 .titleFont {
-    font-family: 'Codystar', cursive;
+    font-family: 'Sacramento', cursive;
     font-size: 40px;
+    color:#10107e;
 }
 
 
 
 body {
-    background-color: #030b15;
+    background-image: url("./Images/whiteWallpaper.jpeg");
 }
 
 .row {
@@ -31,13 +32,13 @@ body {
 
 .contentFont {
     font-family: 'Rubik', sans-serif;
-    color:#dfceba
+    color:#10553c
 }
 
 .sectionFont {
     font-family: 'Squada One', cursive;
     font-size:35px;
-    color:#4f6073
+    color:#10107e;
 }
 
 .imageBorder {
@@ -48,11 +49,11 @@ body {
 #jumbo{
     padding:0px;
     margin:0px;
-    height:10%;
+    height:8%;
     
 }
 
 .navbar-custom {
-    color: #dfceba;
-    background-color: #dfceba;
+    color: #10553c;
+    background-color: #10553c;
 }
